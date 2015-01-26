@@ -1,6 +1,6 @@
 <manifest>
-<remote name="github" fetch="https://github.com"/>
-<project name="hybridgroup/artoo" remote="github" path="artoo"/>
-<project name="hybridgroup/artoo-sphero" remote="github" path="artoo-sphero"/>
-<default revision="master" remote="github" sync-j="4"/>
+  <!-- <default revision="master" remote="github" sync-j="4"/>-->
+  <remote name="github" fetch="https://github.com"/>
+  <project name="hybridgroup/artoo" remote="github" path="artoo" revision="master"/>
+  <project name="hybridgroup/artoo-sphero" remote="github" path="artoo-sphero" revision="master"/>
 </manifest>

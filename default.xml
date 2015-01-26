@@ -2,5 +2,5 @@
 <remote name="github" fetch="https://github.com"/>
 <project name="hybridgroup/artoo" remote="github" path="artoo"/>
 <project name="hybridgroup/artoo-sphero" remote="github" path="artoo-sphero"/>
-<default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
+<default revision="refs/heads/master" remote="github" sync-j="4"/>
 </manifest>
